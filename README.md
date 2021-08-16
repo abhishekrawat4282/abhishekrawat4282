@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 <!--
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)-->
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/abhishek-rawat-3b900017b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/abhishek-rawat-3b900017b/)
 <!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)-->
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/16671144/abhishek-rawat)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)](https://stackoverflow.com/users/16671144/abhishek-rawat)
 
 I'm a BCA graduate who's pursuing his MCA and is interested in learning new skills and programming languages.
 
