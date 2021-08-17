@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-rawat-3b900017b/)](https://www.linkedin.com/in/abhishek-rawat-3b900017b/)
-[![Stack Overflow Badge](https://img.shields.io/badge/-Abhishek-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://stackoverflow.com/users/16671144/abhishek-rawat)](https://stackoverflow.com/users/16671144/abhishek-rawat)
+[![Stack Overflow Badge](https://img.shields.io/badge/-Abhishek-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/16671144/abhishek-rawat)](https://stackoverflow.com/users/16671144/abhishek-rawat)
 [![Twitter Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Abhiii_rawat/)](https://twitter.com/Abhiii_rawat/)
 
 I'm a BCA graduate who's pursuing his MCA and is interested in learning new skills and programming languages.
