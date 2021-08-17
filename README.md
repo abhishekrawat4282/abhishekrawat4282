@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-rawat-3b900017b/)](https://www.linkedin.com/in/abhishek-rawat-3b900017b/)
 <!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)-->
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-pink)](https://stackoverflow.com/users/16671144/abhishek-rawat)
-[![Twitter Badge](http://img.shields.io/badge/Twitter-Abhishek-blue)](https://twitter.com/Abhiii_rawat)
 [![Twitter Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Abhiii_rawat/)](https://twitter.com/Abhiii_rawat/)
 
 I'm a BCA graduate who's pursuing his MCA and is interested in learning new skills and programming languages.
